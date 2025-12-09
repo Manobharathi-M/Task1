@@ -28,5 +28,3 @@ style.css
 script.js
 images/
 
-
-If you want an **even shorter** version or want to add a **screenshot section**, tell me!
